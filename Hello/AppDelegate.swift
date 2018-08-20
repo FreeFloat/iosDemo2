@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  Hello
-//
+//  * Handle the application life cycle. *
 //  Created by admin on 20/8/2561 BE.
 //  Copyright © 2561 admin. All rights reserved.
 //
