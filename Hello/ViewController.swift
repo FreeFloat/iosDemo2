@@ -36,6 +36,7 @@ class ViewController: UIViewController {
     }
     @IBAction func sayHi_Click(_ sender: Any) {
         self.lblHello.text = "Hello \(self.txtName_Change.text!)"
+        print("")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
