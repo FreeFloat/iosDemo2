@@ -18,7 +18,10 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.lblHello.text = "Hello world after viewDidLoad"
+        self.lblHello.text = "Hello world after viewDidLoad "
+        var a  = 10
+        a = a + 4
+        print(a)
         // Do any additional setup after loading the view, typically from a nib.
     }
     //Convert : Transform the object.Tran gender
